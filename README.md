@@ -30,7 +30,7 @@ I'm passionate about **Artificial Intelligence** and **Machine Learning**, trans
 
 
 
-**Tech:** TBD
+
 
 </td>
 </tr>
