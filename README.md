@@ -28,57 +28,7 @@ I'm passionate about **Artificial Intelligence** and **Machine Learning**, trans
 
 ---
 
-## 🚀 What I'm Building
 
-- 🧠 AI Negotiator Agent with strategic decision-making
-- 🎯 Strengthening Java OOP & core programming logic
-- 📊 Deep Learning with TensorFlow & Keras
-- 🔍 Computer Vision & CNN architectures
-
----
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Negotiator Agent
-**Major Hackathon Project**
-
-Intelligent AI agent for strategic buying/selling negotiations with personality-based responses and profit optimization.
-
-**Tech:** Python • Flask • AI Agents
-
-</td>
-<td width="50%">
-
-### 🪪 Personal Info Masking Tool
-**Privacy-Focused CV Application**
-
-Web app using OCR to detect and mask sensitive information on ID cards automatically.
-
-**Tech:** Python • Computer Vision • OCR
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 😊😢 Happy vs Sad Classifier
-**Deep Learning Project**
-
-CNN-based emotion detection model classifying facial expressions into happy or sad categories.
-
-**Tech:** TensorFlow • Keras • CNN
-
-</td>
-<td width="50%">
-
-### 🎯 Your Next Project
-**Coming Soon**
-
-Building something amazing with AI/ML...
 
 **Tech:** TBD
 
@@ -121,32 +71,14 @@ Building something amazing with AI/ML...
 
 ---
 
-## 🎯 Current Focus
 
-```python
-class DharunikaJourney:
-    def __init__(self):
-        self.status = "Building Intelligent Systems"
-        self.learning = ["Advanced CNNs", "AI Agents", "Flask Backend"]
-        self.goal = "Become someone who builds AI, not just uses it"
-    
-    def next_steps(self):
-        return [
-            "✅ Strengthen core programming logic",
-            "✅ Master deep learning fundamentals", 
-            "✅ Build real-world AI/ML projects",
-            "🎯 Deploy production ML systems"
-        ]
-```
-
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dharunika-natarajan-7b29aa352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dharunika0708@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>
 
 ---
