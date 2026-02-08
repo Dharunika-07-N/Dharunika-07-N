@@ -50,12 +50,7 @@ I'm passionate about **Artificial Intelligence** and **Machine Learning**, trans
 - Computer Vision & image classification
 - AI agent design & behavioral modeling
 - Dataset preprocessing & model training
-
-**Academic Strengths**
-- Statistical inference & hypothesis testing
-- Design of Experiments (DOE), ANOVA
-- Numerical methods & logical reasoning
-
+  
 ---
 
 ## 📈 GitHub Stats
